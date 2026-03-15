@@ -3,7 +3,7 @@
 # Wilmer Garcia
 **Systems Engineer · Full-Stack Developer · Honduras 🇭🇳**
 
-*Building scalable systems and clean interfaces. Passionate about backend architecture, DevOps, and modern web development.*
+*Building scalable systems and clean interfaces. Passionate about backend y frontend architecture, DevOps, Database and modern web development.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmer-garcia03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wwilmer074@gmail.com)
