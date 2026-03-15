@@ -16,7 +16,7 @@
 
 | 🗓 Experience | 🚀 Projects | 🛠 Technologies | 🔀 PRs & Contributions |
 |:-:|:-:|:-:|:-:|
-| 3+ years | 30+ built | 13+ mastered | 100+ merged |
+| 3+ years | 30+ built | 13+ used| 100+ merged |
 
 ---
 
