@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wilmer Garcia
+# Wilmer García
 **Systems Engineer · Full-Stack Developer · Honduras 🇭🇳**
 
 *Building scalable systems and clean interfaces. Passionate about backend y frontend architecture, DevOps, Database and modern web development.*
